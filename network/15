@@ -1,0 +1,3 @@
+#this command would add the line between the quotes into the /etc/hosts file
+#that way the system will find this entry before consulting the DNS and reroute succesfully
+sudo echo "46.19.122.85	intra.42.fr" >> /etc/hosts
