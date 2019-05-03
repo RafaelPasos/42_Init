@@ -1,0 +1,3 @@
+# cat /root/.ssh/id_rsa
+# if the file doesnt exist you need to generate a new key with the
+# ssh-keygen command, and that also generates the file

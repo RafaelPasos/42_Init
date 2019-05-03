@@ -1,0 +1,6 @@
+# To change users from graphical session
+# Just log out of the current session and log in back with the user
+#  you want to switch to
+
+# To change users from ssh session
+# run # su - "username you want to switch to"
